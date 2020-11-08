@@ -10,5 +10,5 @@ One reason I'm taking this course is to develop a better tool kit for implementi
 In addition to understanding how data visualization might help the performing arts industry as a whole, I'm also interested in learning how to view visuals as another form of language. The arts often talk about how what we do - movement, painting, composing, performing - are various forms of language that have the ability to communicate emotions, thoughts, ideas, etc. By taking this course, I want to add data visualization to the languages I can use to communicate through when interacting with organizational audiences, colleagues, foundations and board members. As an industry, the performing arts has a long way to go in terms of change and I hope to be able to use the data that is at our fingertips (but rarely used) to help make ethical and equitable decisions wherever possible while pushing artistic exploration in my career following graduation. 
 
 # Portfolio
-[Week 2: Visualizing Data with Online Tools](datavizwk2)
+[Week 2: Visualizing Data with Online Tools](datavizwk2.md)
 
