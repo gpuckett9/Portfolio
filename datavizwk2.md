@@ -9,3 +9,6 @@ The following visualization endeavors to show a single variable and the changes 
 Please note that the data seen in the bar chart above is only a small fraction of the data shown below. The two charts are working to tell two different stories - one about the debt ratio in a single year, the other about changes over time - and are therefore displayed in different ways. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4281511"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Taking a Look from a Different Story Angle
+<div class="flourish-embed flourish-chart" data-src="visualisation/4284805"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
