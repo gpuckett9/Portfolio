@@ -11,4 +11,5 @@ In addition to understanding how data visualization might help the performing ar
 
 # Portfolio
 [Week 2: Visualizing Data with Online Tools](datavizwk2.md)
+
 [Week 3: Critique by Re-Design](datavizwk3.md)
