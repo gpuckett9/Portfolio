@@ -2,7 +2,7 @@
 
 The chart I chose for this exercise, shown below, is one that is serviceable to its audience, but makes assumptions about how arts managers would prefer to view and understand the data, as well as their capability. It's interactivity makes for an engaging chart, but the necessity of clicking back and forth between states makes comparison difficult and tedious. Lacking a clear story outside of individual state metrics, the chart below from the National Endowment for the Arts (NEA) offers only the most basic understanding of the data. For the arts, good data visualizations are hard to come by, as the current mentality in the industry is that data has no role - though that is changing. This chart presented a wonderful opportunity to showcase how data can effectively be used to tell an actionable story for the arts, while still utilizing elements of simplicity for clarity.
 
-Original Chart - "State Level Estimates of the Arts' Economic and Value and Employment (2001 - 2017)"
+Original Chart: "State Level Estimates of the Arts' Economic and Value and Employment (2001 - 2017)"
 
 ![image](2020-11-15(2).PNG)
 
