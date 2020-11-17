@@ -4,9 +4,9 @@ The chart I chose for this exercise, shown below, is one that is serviceable to 
 
 **Original Chart: "State Level Estimates of the Arts' Economic and Value and Employment (2001 - 2017)"**
 
-![image](NEAArtsImpactStateEconomies.PNG)
+![NEA Arts Impact on State Economies](NEAArtsImpactStateEconomies.PNG)
 
-*National Endowment for the Arts. Arts Data Profile Series. Accessed November 12,2020. https://www.arts.gov/impact/research/arts-data-profile-series/adp-25*
+*National Endowment for the Arts. Arts Data Profile Series. Accessed November 12, 2020. https://www.arts.gov/impact/research/arts-data-profile-series/adp-25*
 
 # My Re-Design for Arts Managers
 
