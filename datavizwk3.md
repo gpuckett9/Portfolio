@@ -1,14 +1,14 @@
-**Critique by Re-Design**
+# Critique by Re-Design
 
 The chart I chose for this exercise, shown below, is one that is serviceable to its audience, but makes assumptions about how arts managers would prefer to view and understand the data, as well as their capability. It's interactivity makes for an engaging chart, but the necessity of clicking back and forth between states makes comparison difficult and tedious. Lacking a clear story outside of individual state metrics, the chart below from the National Endowment for the Arts (NEA) offers only the most basic understanding of the data. For the arts, good data visualizations are hard to come by, as the current mentality in the industry is that data has no role - though that is changing. This chart presented a wonderful opportunity to showcase how data can effectively be used to tell an actionable story for the arts, while still utilizing elements of simplicity for clarity.
 
-Original Chart: "State Level Estimates of the Arts' Economic and Value and Employment (2001 - 2017)"
+**Original Chart: "State Level Estimates of the Arts' Economic and Value and Employment (2001 - 2017)"**
 
 ![image](2020-11-15(2).PNG)
 
 *National Endowment for the Arts, https://www.arts.gov/impact/research/arts-data-profile-series/adp-25*
 
-**My Re-Design for Arts Managers**
+# My Re-Design for Arts Managers
 
 To redesign the NEA's chart, I first thought about what kind of story I wanted to be able to tell with the data. Did I want the audience to focus on one variable or two? Should they be considering state level metrics or employment? Once I had narrowed down my focus to showing **how** the arts impact state economies as a whole, I then moved to considering the visual itself. Not wanting to repeat the assumptions made by the original chart, my goal was to find a way to showcase multiple data variables without over complicating things. Keeping this in mind, I wireframed several different chart types - bar charts, geographic density maps, scatter plots, multiple chart frames, etc. Each of these were chart types that provided me with the ability to compare and contrast data state by state easily and organize it in ways that made visual sense. Following my initial sketch session, I went back through and tried to view each wireframe from an alternative perspective. My hope was to identify the best candidates, which I could then refine further to share with my peers to get feedback. 
 
