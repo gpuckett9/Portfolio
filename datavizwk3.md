@@ -4,7 +4,7 @@ The chart I chose for this exercise, shown below, is one that is serviceable to 
 
 **Original Chart: "State Level Estimates of the Arts' Economic and Value and Employment (2001 - 2017)"**
 
-![image](2020-11-15(2).PNG)
+![image](2020-11-15 (2).png)
 
 *National Endowment for the Arts, https://www.arts.gov/impact/research/arts-data-profile-series/adp-25*
 
