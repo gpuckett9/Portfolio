@@ -14,7 +14,7 @@ To redesign the NEA's chart, I first thought about what kind of story I wanted t
 
 As a masters student studying arts management, many of the peers I turn to are those also looking to enter the industry and make change for the better. I ended up sharing two potential options: a geographic density map showcasing one variable and a bubble chart that showcased three variables. 
 
-<img src="IMG_0289.jpg" width="486.5" height="293.5"/><img src="IMG_0288(1).jpg" width="490.35" height="258.83"/>
+<img src="IMG_0289.jpg" width="486.5" height="293.5"/><img src="IMG_0288(1).jpg" width="490.35" height="290"/>
 
 The feedback I got helped me to really dial in on the story I wanted to tell with my data visualization and led me to choose the bubble map, as well as how much time I wanted my audience to take to understand the stoy I wanted to tell. My reasoning for selecting the bubble chart, as well as the variables themselves, was to show how data gathered on the arts could be pieced together to prove how impactful it can be on economic livelihood. Talking with my peers helped me to focus on using variables that were directly related to each other on the axes of the chart to establish my base and then adding in a third variable to adjust shape size. I also pared down how much color was used, focusing on emphasizing the distribution rather than spending lots of time trying to make it look "pretty". With a data visualization like this at hand, arts managers and funders might better be able to advocate for additional funding, prevent programming from being de-funded, and show the value of having a healthy arts environment as an integral part of state (or national) economies.
 
