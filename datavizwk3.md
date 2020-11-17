@@ -6,7 +6,7 @@ The chart I chose for this exercise, shown below, is one that is serviceable to 
 
 ![image](2020-11-15 (2).PNG)
 
-*National Endowment for the Arts, https://www.arts.gov/impact/research/arts-data-profile-series/adp-25*
+*National Endowment for the Arts. Arts Data Profile Series. Accessed November 12,2020. https://www.arts.gov/impact/research/arts-data-profile-series/adp-25*
 
 # My Re-Design for Arts Managers
 
