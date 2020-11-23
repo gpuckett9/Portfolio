@@ -30,7 +30,7 @@ will be created and implemented digitally, using either Flourish or Tableau, dep
 
 ![Wireframe1](IMG_0310.jpg) ![Wireframe2](IMG_0311.jpg)   
 
-![Wireframe3](IMG_0306.jpg) !{Wireframe4](IMG_0307.jpg)
+![Wireframe3](IMG_0306.jpg) ![Wireframe4](IMG_0307.jpg)
 
 ![Wireframe6](IMG_0313.jpg) ![Wireframe5](IMG_0312.jpg)
 
