@@ -7,7 +7,7 @@ My project will be looking at the gender and pay disparities found in the leader
 
 I see my project including the following touchpoints:
 * Overall number of women in the dance industry vastly outweights that of men.
-* Opportunities to find female mentors are nearly endless.
+* Many opportunities to find female mentors, at least for performers and teachers. 
 * Men, though the industry minority, hold the majority of leadership positions.
   * Women are also paid significantly less than their male counterparts in the same positions.
 * Change is on the horizon! More women are now holding these positions.
