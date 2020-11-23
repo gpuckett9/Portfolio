@@ -27,4 +27,4 @@ I see my project including the following touchpoints:
   
   # Method/Medium
   To showcase my story, I plan on creating a digital platform using Shorthand, as it operates much like a typical website might - at least to the viewer. All data visualizations 
-will be created and implemented digitally, using either Flourish or Tableau, with a consistent color theme carried throughout.  
+will be created and implemented digitally, using either Flourish or Tableau, depending on the chart type, with a consistent color theme carried throughout. In an effort to ensure viewers spend as little time possible figuring out the charts, I plan on creating a layout that engages without being distracting, such as alternating charts and text order (chart, then text; text then chart, laid out left to right). This layout would also endeavor to take advantage of implementing white space to minimize distractions and simultaneously emphasize any pull out quotes or statistics I might choose to include. 
