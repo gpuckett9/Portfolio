@@ -15,7 +15,6 @@ I see my project including the following touchpoints:
   * Support research being done to understand the gender and pay gap within the dance industry, and
   * Mentorship programs for women in the arts who want to be artistic and executive directors.
   
-  
 ![StoryArc](IMG-0314.jpg)
   
 # My Data
