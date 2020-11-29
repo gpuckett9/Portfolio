@@ -35,3 +35,6 @@ will be created and implemented digitally, using either Flourish or Tableau, dep
 ![Wireframe6](IMG_0313.jpg) ![Wireframe5](IMG_0312.jpg)
 
 ![Wireframe7](IMG_0308.jpg) ![Wireframe8](IMG_0309.jpg)
+
+# Want to see more? Check out where I went with this project in [Part II: User Research & Wireframing](Final_Project_GP_PartII.md)
+
