@@ -21,10 +21,12 @@ When thinking about how to reach my target audience, I immediately thought of ut
 Since my target audience and interviewees are all entrenched in the arts, I wanted to ask questions that would give me equal feedback on the industry response and whatever emotions elicited from the individual level. The goal is not to lead them to what I want to hear, but see my story from a different perspective and through new sets of eyes.
 
 1. What is your initial reaction to the story being told?
-2. Were there moments that struck you for any particular reason, positive or negative?
-3. Do you feel like the story flows? Are there any moments that you might consider rearranging? Why?
-4. Are there elements that you believe may be missing from the story or the data being shown?
-5. 
+2. From your perspective, what do you think is the main point of the story?
+3. Were there moments that struck you for any particular reason, positive or negative?
+4. Do you feel like the story flows? Are there any moments that you might consider rearranging? Why?
+5. Do you have any insights or comments that you'd like to share regarding the data visualizations currently included? 
+6. Are there elements that you believe may be missing from the story or the data being shown?
+7. Any additional comments, thoughts, insights, etc.?
 
 **Interview Responses**
 Interview comments, ideas, quotes, etc. GO HERE
