@@ -29,7 +29,14 @@ Since my target audience and interviewees are all entrenched in the arts, I want
 7. Any additional comments, thoughts, insights, etc.?
 
 **Interview Responses**
-Interview comments, ideas, quotes, etc. GO HERE
+
+Following my user research, I found out that my interviewees felt overall the general flow of my story was clear despite a some areas needing some additional clarification. The topic itself generated obvious emotions, with all of the interviewees remarking how, in some form, the story elicited negative emotions. A a few of the emotiona-based comments were:
+
+- "We need more women in dance leadership!! F$%* the gender wage gap!!"
+- "The wage gap visualization made me mad..."
+- "I think the transition from data women as dancers and choreographers to women in dance leadership is pretty stark / negative."
+
+The areas my interviewees felt needed further clarification were ones where the titles of the visualizations needed to be re-worked and chart color schemes need to be made consistent. Some of the struggles my viewers may have had while reviewing could have been the result of not including much text in my wireframing. I included titles to assist with understanding my flow since I had no text, but without additional context, my viewers had to work harder to understand what I was trying to say. 
 
 **Changes and Next Steps**
 Where I plan to move next GOES HERE
