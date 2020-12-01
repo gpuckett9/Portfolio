@@ -16,4 +16,4 @@ In addition to understanding how data visualization might help the performing ar
 
 [Final Project - "Dance is Woman, but its Leadership is not"](Final_Project_GracePuckett.md)
 
-[Final Project Part II - User Research & Wireframing](
+[Final Project Part II - User Research & Wireframing](Final_Project_GP_PartII.md)
