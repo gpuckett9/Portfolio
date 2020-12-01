@@ -38,10 +38,25 @@ Following my user research, I found out that my interviewees felt overall the ge
 
 The areas my interviewees felt needed further clarification were ones where the titles of the visualizations needed to be re-worked and chart color schemes need to be made consistent. Some of the struggles my viewers may have had while reviewing could have been the result of not including much text in my wireframing. I included titles to assist with understanding my flow since I had no text, but without additional context, my viewers had to work harder to understand what I was trying to say. 
 
-**Changes and Next Steps**
-Where I plan to move next GOES HERE
+When I asked about my data visualizations, my interviewers had this to say:
 
+- "I really love your Flourish election chart, I think it's an effective and engaging way to represent all of that data. I think the blue/grey bar chart in "The Problem" slide could be added in there; that one seems more fitting with the "there is change but we need more fuel to the fire" message since you can see the proportion of women in leadership already growing. I think the other two donut charts work well there, and there might be another way to visualize data that shows a snapshot of the problem for that slide."
+- "The "Which leadership job did they hold?" viz is the least intuitive to me; my brain immediately looks at the large blocks of color in the viz itself, but then I'm already confused about what it means until I find the rather small legend above. Maybe make the legend bigger so my eyes go to it first?"
+- "I might reconsider the format for the pay chart. It looks like a tree map (maybe it is . . . I don't know), and that causes it to register a little differently. I also assume you'll unify your color scheme at some point, but that I believe will help a lot -- coding women as one color consitently maybe."
+
+From their comments, I believe I need to consider further where the best locations for my charts might actually be. I think the most of them are in the right spot, but I'd like to consider further if the dot chart and the bar chart should be flipped. I also want to reconsider the chart type for my viz that look at the wage gap and see if a different format might read better than the version I've currently got.
+
+**Changes and Next Steps**- 
+
+After getting feedback from my target audience, I plan on taking the following actions:
+
+- Adding in appropriate text for the story's context
+- Resketching vizualizations for charts my interviewees had trouble with
+- Clarifying chart titles
+- Work to balance text and data viz so the charts can speak for themselves
+- Make the color scheme consistent
+- Making sure all pertinent data is included
 
 # Wireframes, Round 2
 
-
+To see what my wireframing looks like, visit my [Shorthand preview page here!](https://preview.shorthand.com/D4IcLDISzC5qzXrv)
