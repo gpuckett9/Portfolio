@@ -14,6 +14,8 @@ Another change I made was resketching charts that users had trouble understandin
 
 User research also revealed that chart titles were, as a whole, not as clear as they could be. In some places they initially referred to aspects not discussed later on, even though they were accurate in relation to the data itself. This led me to rethink and rework the chart titles on nearly every graph, so as to tie into the overall story much better, while still staying true to what the data was saying. Changing titles was also tied into efforts of balancing text with visuals and helping the charts speak for themselves. By clarifying the chart titles, I was able to refine what text should and shouldn't be included, as well as finalize a clear layout that was visually pleasing. 
 
+Finally, I made sure to differentiate my target audience in my call to action to clarify that this is an issue for women and men in the industry alike. The need to define the topic as an important one for all industry employees, regardless of who they are, was brought up in my user research and I wanted to honor that. Not to mention, clearly identifying who might be interested in taking specific actions helped me better understand my own audience. Sometimes being so close to the topic at hand makes it harder to reach clarity, so I appreciated any feedback that helped highlight blindspots and move the project forward.
+
 **The Final Product: [Where Are the Women in Dance Industry Leadership?](https://carnegiemellon.shorthandstories.com/where-are-the-women-in--dance-industry-leadership-/index.html)**
 
 **Data Sources and References**
