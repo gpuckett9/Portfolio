@@ -16,7 +16,7 @@ User research also revealed that chart titles were, as a whole, not as clear as 
 
 Finally, I made sure to differentiate my target audience in my call to action to clarify that this is an issue for women and men in the industry alike. The need to define the topic as an important one for all industry employees, regardless of who they are, was brought up in my user research and I wanted to honor that. Not to mention, clearly identifying who might be interested in taking specific actions helped me better understand my own audience. Sometimes being so close to the topic at hand makes it harder to reach clarity, so I appreciated any feedback that helped highlight blindspots and move the project forward.
 
-**The Final Product: [Where Are the Women in Dance Industry Leadership?](https://carnegiemellon.shorthandstories.com/where-are-the-women-in--dance-industry-leadership-/index.html)**
+# The Final Product: [Where Are the Women in Dance Industry Leadership?](https://carnegiemellon.shorthandstories.com/where-are-the-women-in--dance-industry-leadership-/index.html)
 
 **Data Sources and References**
 
