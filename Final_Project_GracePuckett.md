@@ -1,4 +1,4 @@
-# My Final Project - "Dance is Woman, but it's Leadership is not"
+# My Final Project - "Where are the Women in Dance Industry Leadership?"
 
 # Project Outline
 My project will be looking at the gender and pay disparities found in the leadership roles of the dance industry, advocating for more support and mentorship for women who seek to fill those positions. For the purposes of this project, leadership will be defined as artistic directors and executive directors. 
@@ -36,5 +36,9 @@ will be created and implemented digitally, using either Flourish or Tableau, dep
 
 ![Wireframe7](IMG_0308.jpg) ![Wireframe8](IMG_0309.jpg)
 
-# Want to see more? Check out where I went with this project in [Part II: User Research & Wireframing](Final_Project_GP_PartII.md)
+# Want to see more? Check out where I went with this project in:
+
+- [Part II: User Research & Wireframing](Final_Project_GP_PartII.md)
+
+- [Part III: The Final Product & Shorthand](Final_Project_GP_PartIII.md)
 
