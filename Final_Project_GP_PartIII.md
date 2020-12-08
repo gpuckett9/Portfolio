@@ -14,4 +14,16 @@ Another change I made was resketching charts that users had trouble understandin
 
 User research also revealed that chart titles were, as a whole, not as clear as they could be. In some places they initially referred to aspects not discussed later on, even though they were accurate in relation to the data itself. This led me to rethink and rework the chart titles on nearly every graph, so as to tie into the overall story much better, while still staying true to what the data was saying. Changing titles was also tied into efforts of balancing text with visuals and helping the charts speak for themselves. By clarifying the chart titles, I was able to refine what text should and shouldn't be included, as well as finalize a clear layout that was visually pleasing. 
 
-**The Final Product: [Where Are the Women in Dance Industry Leadership](https://carnegiemellon.shorthandstories.com/where-are-the-women-in--dance-industry-leadership-/index.html)**
+**The Final Product: [Where Are the Women in Dance Industry Leadership?](https://carnegiemellon.shorthandstories.com/where-are-the-women-in--dance-industry-leadership-/index.html)**
+
+**Data Sources and References**
+
+- Dance Data Project. Leadership Report 2020. Dance Data Project. Accessed November 28, 2020. https://www.dancedataproject.com/wp-content/uploads/2020/03/Leadership-Report-2020.pdf.LinkedIn. 
+
+- Gender Insights Report: How Women Find Jobs Differently. LinkedIn. Accessed November 28, 2020. https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions-lodestone/body/pdf/Gender-Insights-Report.pdf. 
+
+- Mohr, Tara Sophia. "Why Women Don't Apply for Jobs Unless They're 100% Qualified". Harvard Business Review. Last modified August 25, 2014. Accessed November 28, 2020. https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified. 
+
+- National Endowment of the Arts. Artists and Other Cultural Workers: A Statistical Portrait. NEA. Accessed November 28, 2020. https://www.arts.gov/impact/research/arts-data-profile-series/adp-22. 
+
+- Youn, Soon. "Women are less aggressive than men when applying for jobs, despite getting hired more frequently: LinkedIn". ABC News. Last updated March 7, 2019. Accessed November 28, 2020. https://abcnews.go.com/Business/women-aggressive-men-applying-jobs-hired-frequently-linkedin/story?id=61531741.
