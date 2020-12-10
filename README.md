@@ -14,6 +14,8 @@ In addition to understanding how data visualization might help the performing ar
 
 [Week 3: Critique by Re-Design](datavizwk3.md)
 
-[Final Project - "Dance is Woman, but its Leadership is not"](Final_Project_GracePuckett.md)
+[Final Project: "Where Are the Women in Dance Industry Leadership?"](Final_Project_GracePuckett.md)
 
-[Final Project Part II - User Research & Wireframing](Final_Project_GP_PartII.md)
+- [Final Project Part II: User Research & Wireframing](Final_Project_GP_PartII.md)
+
+- [Final Project Part III: Final Porduct & Shorthand](Final_Product_GP_PartIII.md)
