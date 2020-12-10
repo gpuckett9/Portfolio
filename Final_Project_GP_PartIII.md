@@ -2,9 +2,9 @@
 
 **The Process**
 
-Please visit [Part I: Project Outline, Medium, & Initial Sketches](Final_Project_GracePuckett.md) to view the project's initial story outline, structure, sources and plan for use of data, approaches for method and medium, and access to the data.
+Please visit [Part I: Project Outline, Medium, & Initial Sketches](Final_Project_GracePuckett.md) to view the project's initial story outline, structure, sources and plan for use of data, approaches for method and medium, initial sketches, and access to the data.
 
-Please visit [Part II: User Research & Wireframing](Final_Project_GP_PartII.md) to view the project's user research, digital wireframing, and sketches *(linked from Part I)*. 
+Please visit [Part II: User Research & Wireframing](Final_Project_GP_PartII.md) to view the project's user research and digital wireframing. 
 
 **The Final Data Story**
 
