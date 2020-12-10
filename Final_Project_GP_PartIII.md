@@ -1,4 +1,4 @@
-# Part 3: Final Product
+# Part 3: Final Product & Shorthand
 
 **The Process**
 
