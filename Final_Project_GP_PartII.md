@@ -60,3 +60,6 @@ After getting feedback from my target audience, I plan on taking the following a
 # Wireframes, Round 2
 
 To see what my wireframing looks like, visit my [Shorthand preview page here!](https://preview.shorthand.com/D4IcLDISzC5qzXrv)
+
+**To see what steps were taken to achieve the final product, visit [Part III: Final Product & Shorthand](Final_Project_GP_PartIII.md)**
+
